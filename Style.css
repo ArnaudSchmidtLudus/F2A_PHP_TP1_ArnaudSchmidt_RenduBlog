@@ -1,0 +1,43 @@
+
+/* police utilisée */
+@import url(https://fonts.googleapis.com/css?family=Delius+Unicase);
+
+body
+{
+	background: url("backforum.jpg");
+	font-family: 'Delius Unicase', cursive;
+	color: white;
+	text-align: center;
+}
+
+header
+{
+	margin-bottom: 100px;
+	margin-top: 50px;
+}
+
+footer
+{
+	margin-top: 100px;
+	margin-left: 25%;
+	margin-right: 25%;
+	border: white 3px solid;
+	background-color: RGBA(53,53,53,0.5);
+	border-radius: 10px;
+}
+
+a
+{
+	text-decoration: none;
+	color: white;
+	border: white 1px solid;
+	padding: 3px;
+	margin: 10px;
+	background-color: RGBA(53,53,53,0.5);
+	border-radius: 3px;
+}
+
+#butdc
+{
+	text-align: right;
+}
